@@ -333,6 +333,7 @@ tables:
       - corridor
       - pedestrian
       - steps
+      - living_street
       public_transport:
       - platform
       man_made:
